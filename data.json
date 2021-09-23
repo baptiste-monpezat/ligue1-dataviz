@@ -1,0 +1,207 @@
+[
+  {
+    "season": "2021-2022",
+    "results": [
+      {
+        "team": "Paris SG",
+        "evolution": [
+          { "day": 1, "db": 1, "bp": 2, "ranking": 4, "points": 3 },
+          { "day": 2, "db": 3, "bp": 6, "ranking": 3, "points": 6 },
+          { "day": 3, "db": 5, "bp": 10, "ranking": 1, "points": 9 },
+          { "day": 4, "db": 7, "bp": 12, "ranking": 1, "points": 12 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png/tiny"
+      },
+      {
+        "team": "Angers",
+        "evolution": [
+          { "day": 1, "db": 2, "bp": 2, "ranking": 2, "points": 3 },
+          { "day": 2, "db": 5, "bp": 5, "ranking": 1, "points": 6 },
+          { "day": 3, "db": 5, "bp": 6, "ranking": 2, "points": 7 },
+          { "day": 4, "db": 7, "bp": 8, "ranking": 2, "points": 10 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/445gc21622560255.png/tiny"
+      },
+      {
+        "team": "Clermont Foot",
+        "evolution": [
+          { "day": 1, "db": 2, "bp": 2, "ranking": 1, "points": 3 },
+          { "day": 2, "db": 4, "bp": 4, "ranking": 2, "points": 6 },
+          { "day": 3, "db": 4, "bp": 7, "ranking": 3, "points": 7 },
+          { "day": 4, "db": 4, "bp": 9, "ranking": 3, "points": 8 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/wrytst1426871249.png/tiny"
+      },
+      {
+        "team": "Nice",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 0, "ranking": 15, "points": 1 },
+          { "day": 2, "db": 4, "bp": 4, "ranking": 4, "points": 4 },
+          { "day": 3, "db": 4, "bp": 4, "ranking": 6, "points": 4 },
+          { "day": 4, "db": 8, "bp": 8, "ranking": 4, "points": 7 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png/tiny"
+      },
+      {
+        "team": "Marseille",
+        "evolution": [
+          { "day": 1, "db": 1, "bp": 3, "ranking": 3, "points": 3 },
+          { "day": 2, "db": 1, "bp": 5, "ranking": 6, "points": 4 },
+          { "day": 3, "db": 1, "bp": 5, "ranking": 8, "points": 4 },
+          { "day": 4, "db": 3, "bp": 8, "ranking": 5, "points": 7 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png/tiny"
+      },
+      {
+        "team": "Lens",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 1, "ranking": 12, "points": 1 },
+          { "day": 2, "db": 0, "bp": 3, "ranking": 8, "points": 2 },
+          { "day": 3, "db": 2, "bp": 5, "ranking": 4, "points": 5 },
+          { "day": 4, "db": 2, "bp": 7, "ranking": 6, "points": 6 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png/tiny"
+      },
+      {
+        "team": "Lorient",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 1, "ranking": 14, "points": 1 },
+          { "day": 2, "db": 1, "bp": 2, "ranking": 7, "points": 4 },
+          { "day": 3, "db": -1, "bp": 3, "ranking": 10, "points": 4 },
+          { "day": 4, "db": -1, "bp": 5, "ranking": 7, "points": 5 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png/tiny"
+      },
+      {
+        "team": "Rennes",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 1, "ranking": 11, "points": 1 },
+          { "day": 2, "db": 0, "bp": 2, "ranking": 12, "points": 2 },
+          { "day": 3, "db": 1, "bp": 3, "ranking": 5, "points": 5 },
+          { "day": 4, "db": -1, "bp": 3, "ranking": 8, "points": 5 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/ypturx1473504818.png/tiny"
+      },
+      {
+        "team": "Lyon",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 1, "ranking": 9, "points": 1 },
+          { "day": 2, "db": -3, "bp": 1, "ranking": 17, "points": 1 },
+          { "day": 3, "db": -3, "bp": 4, "ranking": 16, "points": 2 },
+          { "day": 4, "db": -2, "bp": 5, "ranking": 9, "points": 5 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/vwtvyt1473504756.png/tiny"
+      },
+      {
+        "team": "Lille",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 3, "ranking": 6, "points": 1 },
+          { "day": 2, "db": -4, "bp": 3, "ranking": 18, "points": 1 },
+          { "day": 3, "db": -4, "bp": 4, "ranking": 17, "points": 2 },
+          { "day": 4, "db": -3, "bp": 6, "ranking": 10, "points": 5 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/2giize1534005340.png/tiny"
+      },
+      {
+        "team": "Montpellier",
+        "evolution": [
+          { "day": 1, "db": -1, "bp": 2, "ranking": 17, "points": 0 },
+          { "day": 2, "db": -1, "bp": 5, "ranking": 13, "points": 1 },
+          { "day": 3, "db": 1, "bp": 8, "ranking": 7, "points": 4 },
+          { "day": 4, "db": 0, "bp": 9, "ranking": 11, "points": 4 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/spxtvu1473504783.png/tiny"
+      },
+      {
+        "team": "Nantes",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 1, "ranking": 8, "points": 1 },
+          { "day": 2, "db": 2, "bp": 3, "ranking": 5, "points": 4 },
+          { "day": 3, "db": 1, "bp": 3, "ranking": 9, "points": 4 },
+          { "day": 4, "db": 0, "bp": 3, "ranking": 12, "points": 4 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/8r0dab1598797469.png/tiny"
+      },
+      {
+        "team": "Strasbourg",
+        "evolution": [
+          { "day": 1, "db": -2, "bp": 0, "ranking": 20, "points": 0 },
+          { "day": 2, "db": -4, "bp": 2, "ranking": 20, "points": 0 },
+          { "day": 3, "db": -4, "bp": 3, "ranking": 20, "points": 1 },
+          { "day": 4, "db": -2, "bp": 6, "ranking": 13, "points": 4 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/yuxtyy1464540071.png/tiny"
+      },
+      {
+        "team": "Monaco",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 1, "ranking": 7, "points": 1 },
+          { "day": 2, "db": -1, "bp": 1, "ranking": 14, "points": 1 },
+          { "day": 3, "db": -3, "bp": 1, "ranking": 19, "points": 1 },
+          { "day": 4, "db": -2, "bp": 3, "ranking": 14, "points": 4 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/44dufd1626202447.png/tiny"
+      },
+      {
+        "team": "Metz",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 3, "ranking": 5, "points": 1 },
+          { "day": 2, "db": -2, "bp": 3, "ranking": 15, "points": 1 },
+          { "day": 3, "db": -2, "bp": 4, "ranking": 14, "points": 2 },
+          { "day": 4, "db": -2, "bp": 6, "ranking": 15, "points": 3 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/shnmzs1628364024.png/tiny"
+      },
+      {
+        "team": "St Etienne",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 1, "ranking": 13, "points": 1 },
+          { "day": 2, "db": 0, "bp": 3, "ranking": 9, "points": 2 },
+          { "day": 3, "db": 0, "bp": 4, "ranking": 11, "points": 3 },
+          { "day": 4, "db": -2, "bp": 5, "ranking": 16, "points": 3 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/lqc1031518124880.png/tiny"
+      },
+      {
+        "team": "Stade de Reims",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 0, "ranking": 16, "points": 1 },
+          { "day": 2, "db": 0, "bp": 3, "ranking": 10, "points": 2 },
+          { "day": 3, "db": 0, "bp": 4, "ranking": 12, "points": 3 },
+          { "day": 4, "db": -2, "bp": 4, "ranking": 17, "points": 3 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/xcrw1b1592925946.png/tiny"
+      },
+      {
+        "team": "Brest",
+        "evolution": [
+          { "day": 1, "db": 0, "bp": 1, "ranking": 10, "points": 1 },
+          { "day": 2, "db": 0, "bp": 2, "ranking": 11, "points": 2 },
+          { "day": 3, "db": -2, "bp": 4, "ranking": 13, "points": 2 },
+          { "day": 4, "db": -4, "bp": 5, "ranking": 18, "points": 2 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/z69be41598797026.png/tiny"
+      },
+      {
+        "team": "Bordeaux",
+        "evolution": [
+          { "day": 1, "db": -2, "bp": 0, "ranking": 19, "points": 0 },
+          { "day": 2, "db": -2, "bp": 2, "ranking": 16, "points": 1 },
+          { "day": 3, "db": -2, "bp": 3, "ranking": 15, "points": 2 },
+          { "day": 4, "db": -6, "bp": 3, "ranking": 19, "points": 2 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/u45vc51627132724.png/tiny"
+      },
+      {
+        "team": "Troyes",
+        "evolution": [
+          { "day": 1, "db": -1, "bp": 1, "ranking": 18, "points": 0 },
+          { "day": 2, "db": -3, "bp": 1, "ranking": 19, "points": 0 },
+          { "day": 3, "db": -3, "bp": 2, "ranking": 18, "points": 1 },
+          { "day": 4, "db": -4, "bp": 3, "ranking": 20, "points": 1 }
+        ],
+        "img": "https://www.thesportsdb.com/images/media/team/badge/swuwpq1426544753.png/tiny"
+      }
+    ]
+  }
+]
